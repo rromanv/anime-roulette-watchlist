@@ -2,7 +2,7 @@ import { useFetch, useCountdown, useLocalStorage } from '@vueuse/core'
 import { ref } from 'vue'
 
 const WATCHLIST_KEY = 'anime-roulette-watchlist'
-const URL = 'https://api.jikan.moe/v4/random/anime'
+const URL = 'https://api.tenrai.org/v1/random/anime'
 const MAX_SAFE_SPIN_ATTEMPTS = 5
 const RETRY_SECONDS = 10
 
