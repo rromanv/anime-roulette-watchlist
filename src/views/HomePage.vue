@@ -40,7 +40,7 @@ const spinLabel = computed(() => {
         <p class="text-xs font-semibold tracking-[0.3em] text-cyan-300/90 uppercase">Project #4</p>
         <h1 class="mt-2 text-4xl font-black text-white sm:text-5xl">Anime Roulette Machine</h1>
         <p class="mt-2 max-w-3xl text-sm text-slate-300 sm:text-base">
-          Spin the reel, request a random anime from Jinkan with VueUse useFech, and learnhow REST
+          Spin the reel, request a random anime from Tenrai with VueUse useFech, and learnhow REST
           APIs signal rate limiting with HTTP 429.
         </p>
       </header>
